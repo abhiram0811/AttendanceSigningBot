@@ -1,11 +1,9 @@
-# NITC-LMS-Attendance-Marking-Discord-Bot
-This bot is used for marking attendance links as "present" for possibly every class. This only works for NIT Calicut Eduserver LMS.
+# LMS-Attendance-Marking-Discord-Bot
+Possibly for every class, this bot is used to mark attendance links as "present." Only the Eduserver LMS is supported by this.
 
+Discord.py (https://discordpy.readthedocs.io/en/stable/#) is used to automate the bot.
 
-The automation of the bot is achieved by using discord.py (https://discordpy.readthedocs.io/en/stable/#)
-
-
-The hosting/implementation of the bot is done in Replit (https://replit.com/~)
+The bot is hosted and implemented by Replit (https://replit.com/).
 
 # Steps
 1) First create a python repl in replit platform and upload the given py codes (main and keep_alive) in this repository into that repl, and replace the username and password in the code with your username and password of NITC LMS Eduserver.
